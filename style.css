@@ -1,0 +1,36 @@
+body {
+		  text-align: center;	  
+		   background: url("http://dash.ga.co/assets/anna-bg.png");
+		  background-position: center;
+		  color: black;
+		  font-family: helvetica;
+		  }
+		  
+
+	
+	p {
+	 
+		font-size:20px;
+	 
+	 
+	 }
+	#search  {
+		
+		padding: 6px;
+		border:2px solid blue;
+		font-weight: bolder;
+		font-size: 20px;
+		
+		
+		
+	}
+						
+	 
+	footer {
+		
+		margin-top:10%; 
+		font-size:30px; 
+		font-weight:bold;
+		color: white;
+		
+	}

@@ -1,0 +1,1 @@
+`https://api.gettyimages.com/v3/search/images?phrase=${req.params.place}`
